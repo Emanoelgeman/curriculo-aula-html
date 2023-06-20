@@ -1,0 +1,36 @@
+
+
+body{
+    padding: 0;
+    margin: 20px;
+    border: 0px;
+    font-size: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h1{
+    color: rgb(34, 155, 155);
+}
+
+h2{
+    color: rgb(34, 155, 155);
+    
+}
+
+a{
+    text-decoration: none;
+    color: rgb(34, 155, 155);
+
+}
+
+.Empresas{
+    font-weight: bold;
+    color: rgb(34, 155, 155);
+
+}
+
+p{
+    font-weight: 500;
+   
+    
+}
